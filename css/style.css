@@ -20,7 +20,11 @@ brackets or add additional rules
 	grid-column: 3/4;
 }
 
-.item5, .item_b {
+.item5 {
+	grid-column: 3/4;
+	grid-row: 3/4;
+}
+.item_b {
 	grid-column: 3/4;
 	grid-row: 3/4;
 }
