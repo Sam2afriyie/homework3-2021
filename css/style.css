@@ -4,7 +4,7 @@ You can not change ANYTHING inside the
 brackets or add additional rules
 */
 
-.item2 {
+.item2, .item_b {
 	grid-column: 3/4;
 }
 
@@ -20,11 +20,7 @@ brackets or add additional rules
 	grid-column: 3/4;
 }
 
-.item5 {
-	grid-column: 3/4;
-	grid-row: 3/4;
-}
-.item_b {
+.item5, .item_a {
 	grid-column: 3/4;
 	grid-row: 3/4;
 }
